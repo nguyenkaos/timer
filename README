@@ -1,1 +1,8 @@
-TODO: Write YUI Test case that checks if Date is created correctly.
+# timer
+
+Simple html timer.
+
+Usage:
+  https://nguyenkaos.github.io/timer/?timer=<MINUTE>
+Exemple:
+  https://nguyenkaos.github.io/timer/?timer=25 : countdown for 25 minutes
