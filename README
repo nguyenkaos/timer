@@ -4,7 +4,7 @@ Simple html timer.
 
 Usage:
   https://nguyenkaos.github.io/timer/?timer=<MINUTE>
-  <MINUTE> must be < 60 minutes and has 2 characters
+  <MINUTE> must be < 60 minutes
   
 Exemple:
   https://nguyenkaos.github.io/timer/?timer=25 : countdown for 25 minutes
